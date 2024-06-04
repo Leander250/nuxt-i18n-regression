@@ -1,0 +1,9 @@
+{
+	"hello": "Hallo",
+	"options": {
+		"bezAsc": "Bezeichnung (Aufsteigend)",
+		"bezDesc": "Bezeichnung (Absteigend)",
+		"matchcodeAsc": "Matchcode (Aufsteigend)",
+		"matchcodeDesc": "Matchcode (Absteigend)"
+	}
+}
